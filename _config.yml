@@ -1,5 +1,3 @@
-title: "My Notes"
-description: "Observations"
 collections:
- notes:
-  output: true
+  notes:
+    output: true
