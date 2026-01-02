@@ -1,2 +1,2 @@
-# Akamona notes
+# Akamona journal
 Personal writing archives
