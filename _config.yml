@@ -1,3 +1,9 @@
 collections:
   notes:
     output: true
+defaults:
+  - scope:
+      path: ""
+      type: notes
+    values:
+      layout: note
