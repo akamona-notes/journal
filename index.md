@@ -12,10 +12,9 @@ Late-diagnosed autistic. No brand to build, nothing to sell. I am just someone w
 {% endfor %}
 ---
 # Notes
-{% for post in site.notes %}
-### [{{ post.title }}]({{ post.url | relative_url }})
+{% for note in site.notes %}
+### [{{ note.title }}]({{ note.url | relative_url }})
 *Published on {{ note.date | date: "%d %B %Y" }}*
 
 ---
 {% endfor %}
----
