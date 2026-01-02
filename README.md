@@ -1,2 +1,2 @@
-# github.io
+# Akamona notes
 Personal writing archives
